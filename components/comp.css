@@ -1,0 +1,7 @@
+.jumbotron{
+    display: flex;
+    margin-top: 100px;
+    justify-content: center;
+    gap: 40px;
+    flex-wrap: wrap;
+}
