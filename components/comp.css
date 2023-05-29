@@ -5,3 +5,7 @@
     gap: 40px;
     flex-wrap: wrap;
 }
+
+.card-img-top:hover{
+    filter: brightness(50%);
+}
